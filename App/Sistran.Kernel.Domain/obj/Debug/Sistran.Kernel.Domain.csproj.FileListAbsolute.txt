@@ -1,0 +1,8 @@
+D:\Projects\Sistran\App\Sistran.Kernel.Domain\bin\Debug\Sistran.Kernel.Domain.dll
+D:\Projects\Sistran\App\Sistran.Kernel.Domain\bin\Debug\Sistran.Kernel.Domain.pdb
+D:\Projects\Sistran\App\Sistran.Kernel.Domain\obj\Debug\Sistran.Kernel.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\Sistran\App\Sistran.Kernel.Domain\obj\Debug\Sistran.Kernel.Domain.ValueObjects.Resource.ProductMessagesValidation.resources
+D:\Projects\Sistran\App\Sistran.Kernel.Domain\obj\Debug\Sistran.Kernel.Domain.ValueObjects.Resource.ProductsMessages.resources
+D:\Projects\Sistran\App\Sistran.Kernel.Domain\obj\Debug\Sistran.Kernel.Domain.csproj.GenerateResource.Cache
+D:\Projects\Sistran\App\Sistran.Kernel.Domain\obj\Debug\Sistran.Kernel.Domain.dll
+D:\Projects\Sistran\App\Sistran.Kernel.Domain\obj\Debug\Sistran.Kernel.Domain.pdb

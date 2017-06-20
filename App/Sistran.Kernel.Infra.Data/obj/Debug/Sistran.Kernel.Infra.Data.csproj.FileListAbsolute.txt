@@ -1,0 +1,12 @@
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\bin\Debug\Sistran.Kernel.Infra.Data.dll.config
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\bin\Debug\Sistran.Kernel.Infra.Data.dll
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\bin\Debug\Sistran.Kernel.Infra.Data.pdb
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\bin\Debug\Sistran.Produto.Domain.dll
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\bin\Debug\Sistran.Produto.Domain.pdb
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\obj\Debug\Sistran.Kernel.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\obj\Debug\Sistran.Kernel.Infra.Data.dll
+D:\Projects\Sistran\App\Sistran.Kernel.Infra.Data\obj\Debug\Sistran.Kernel.Infra.Data.pdb

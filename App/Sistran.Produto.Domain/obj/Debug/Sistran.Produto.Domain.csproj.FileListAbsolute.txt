@@ -1,0 +1,7 @@
+D:\Projects\Sistran\App\Sistran.Produto.Domain\bin\Debug\Sistran.Produto.Domain.dll
+D:\Projects\Sistran\App\Sistran.Produto.Domain\bin\Debug\Sistran.Produto.Domain.pdb
+D:\Projects\Sistran\App\Sistran.Produto.Domain\bin\Debug\Sistran.Kernel.Domain.dll
+D:\Projects\Sistran\App\Sistran.Produto.Domain\bin\Debug\Sistran.Kernel.Domain.pdb
+D:\Projects\Sistran\App\Sistran.Produto.Domain\obj\Debug\Sistran.Produto.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\Sistran\App\Sistran.Produto.Domain\obj\Debug\Sistran.Produto.Domain.dll
+D:\Projects\Sistran\App\Sistran.Produto.Domain\obj\Debug\Sistran.Produto.Domain.pdb

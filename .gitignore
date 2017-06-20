@@ -1,0 +1,8 @@
+packages/
+App/Sistran.API/bin/
+App/Sistran.Kernel.Domain/bin
+App/Sistran.Kernel.Infra.CrossCutting.Ioc/bin
+App/Sistran.Kernel.Infra.Data/bin
+App/Sistran.Produto.Application/bin
+App/Sistran.Produto.Domain/bin
+App/Sistran.Produto.Infra.Data/bin
